@@ -23,7 +23,7 @@ email: michael.guertl-dusleag@stackedbits.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is an information page about StackedBits
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://blog.jesterbox.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jesterboxboy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Jesterboxboy
 github_username:  Jesterboxboy
 
